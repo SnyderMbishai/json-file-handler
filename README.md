@@ -40,11 +40,6 @@ A step by step series of examples that tell you how to get a development env run
 
 6. to get a specific user, add their id number on the url, example, http://localhost:3000/app/users/1. You should see the user with id 1.
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-
 ## Authors
 
 Snyder Mbishai
