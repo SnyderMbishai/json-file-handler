@@ -20,19 +20,25 @@ What things you need to install the software and how to install them. For ease, 
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+1. clone this repository into a folder of your choice
 
-```
-Give the example
-```
+    `` $ git clone https://github.com/SnyderMbishai/fizz-buzz.git ``
 
-And repeat
+2. cd into it
 
-```
-until finished
-```
+    `` $ cd fizz-buzz ``
 
-End with an example of getting some data out of the system or using it for a little demo
+3. Install the dependencies
+
+    `` $ npm install ``
+    
+4. Run the api
+
+    `` $ npm start ``
+    
+5. Navigate to the browser or postman on http://localhost:3000/app/users. You should be able to see a list of users. 
+
+6. to get a specific user, add their id number on the url, example, http://localhost:3000/app/users/1. You should see the user with id 1.
 
 ## Running the tests
 
