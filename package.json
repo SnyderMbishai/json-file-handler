@@ -4,13 +4,16 @@
   "description": "a simple app to handle data from a json file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha",
+    "start": "nodemon index.js"
   },
   "author": "Snyder Mbishai",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "mocha": "^7.2.0",
     "nodemon": "^2.0.4",
-    "pug": "^3.0.0"
+    "pug": "^3.0.0",
+    "supertest": "^4.0.2"
   }
 }

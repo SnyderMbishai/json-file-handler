@@ -6,5 +6,8 @@ html(lang='en')
     body
         p.greetings#People Hello World!
         p users
-        for user in users                
-            p user
+        ul
+            for user in users
+                
+                li= user.id
+                    user.name
