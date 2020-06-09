@@ -3,7 +3,7 @@ A simple ExpressJS app with a REST API endpoint. The API fetches a list of users
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -22,11 +22,11 @@ A step by step series of examples that tell you how to get a development env run
 
 1. clone this repository into a folder of your choice
 
-    `` $ git clone https://github.com/SnyderMbishai/fizz-buzz.git ``
+    `` $ git clone https://github.com/SnyderMbishai/json-file-handler.git ``
 
 2. cd into it
 
-    `` $ cd fizz-buzz ``
+    `` $ cd json-file-handler ``
 
 3. Install the dependencies
 
